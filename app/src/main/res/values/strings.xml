@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VUAPP</string>
+    <string name="welcome">WELCOME</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="log_in">LOG IN</string>
+</resources>
